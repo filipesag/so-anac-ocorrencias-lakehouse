@@ -23,7 +23,3 @@ Para facilitar análise futura, foi criado um modelo dimensional Snowflake.
 
 ---
 
-## 🔧 Em breve
-
-- [ ] Diagrama da arquitetura da solução na Azure  
-- [ ] Dashboard com insights exploratórios  
